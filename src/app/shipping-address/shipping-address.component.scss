@@ -1,0 +1,48 @@
+.shippingaddress{
+  width:50%;
+  float:left;
+  margin-top: 15px;
+}
+.summary{
+  width:49%;
+  float:right;
+  margin-top: 70px;
+}
+
+.container {
+  padding: 10px;
+}
+
+.form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.form-element {
+  padding: 5px 0px 25px 2px;
+  width: 100%;
+}
+  .mat-card-actions{
+    padding :8px 24px !important;
+}  
+ 
+ .button {
+  width: 100%;
+ } 
+
+ .main-div{
+  height: 110vh;  
+   display: flex;   
+justify-content: center;  
+ align-items: center;
+} 
+
+.mat-card-content {
+  font-size: 12px;
+}
+
+.form-element {
+  padding: 5px 0px 7px 2px; 
+  width: 100% !important
+}

@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+}
+
+.mat-card-footer {
+  display: block;
+  margin: 16px 110px 11px 227px !important
+}
+
+.h3 { 
+font: 408 16px/28px Roboto, "Helvetica Neue", sans-serif;
+letter-spacing: normal;
+margin: 10px 151px 16px !important
+}
+
+tableformat {
+padding-left: 32px;
+padding: 14px ;
+  border-bottom-width: 2px;
+  border-bottom-style: solid !important
+} 
+
+th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
+padding: 14px;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+}
